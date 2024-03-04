@@ -971,6 +971,14 @@ body{
   font-family: 'inter', sans-serif;
 }
 
+.hover\:w-2:hover {
+  width: 0.5rem;
+}
+
+.hover\:w-10:hover {
+  width: 2.5rem;
+}
+
 .hover\:scale-105:hover {
   --tw-scale-x: 1.05;
   --tw-scale-y: 1.05;
