@@ -3,12 +3,12 @@ module.exports = {
   content: ["./index.html"],
   theme: {
     fontFamily:{
-      Inter:['Inter', 'sans-serif'],
+      sourcecode:['Source Code Pro'],
     },
     extend: {
       colors: {
         'gray': '#2E2E2E',
-        'primary': '#cbd5e1',
+        'primary': '#0ea5e9',
       },
     },
   },
